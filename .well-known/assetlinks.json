@@ -3,20 +3,9 @@
     "relation": [ "delegate_permission/common.handle_all_urls" ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.yuda.myapp.staging",
+      "package_name": "com.example.iseng",
       "sha256_cert_fingerprints": [
-        "DEBUG_SHA256_FINGERPRINT",
-        "RELEASE_SHA256_FINGERPRINT"
-      ]
-    }
-  },
-  {
-    "relation": [ "delegate_permission/common.handle_all_urls" ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.yuda.myapp",
-      "sha256_cert_fingerprints": [
-        "PROD_RELEASE_SHA256_FINGERPRINT"
+        "33:95:BA:F1:99:54:6E:DA:DF:F3:96:7A:3B:69:70:E7:0F:40:E5:FB:F1:BD:7E:10:48:01:EC:89:2F:BD:10:24",
       ]
     }
   }
