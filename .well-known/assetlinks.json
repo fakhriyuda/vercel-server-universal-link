@@ -1,0 +1,23 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yuda.myapp.staging",
+      "sha256_cert_fingerprints": [
+        "DEBUG_SHA256_FINGERPRINT",
+        "RELEASE_SHA256_FINGERPRINT"
+      ]
+    }
+  },
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yuda.myapp",
+      "sha256_cert_fingerprints": [
+        "PROD_RELEASE_SHA256_FINGERPRINT"
+      ]
+    }
+  }
+]
