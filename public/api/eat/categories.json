@@ -1,0 +1,8 @@
+{
+  "data": [
+    { "id": "thai",    "name": "Thai",    "image": "https://picsum.photos/seed/thai/96" },
+    { "id": "chinese", "name": "Chinese", "image": "https://picsum.photos/seed/chinese/96" },
+    { "id": "korean",  "name": "Korean",  "image": "https://picsum.photos/seed/korean/96" },
+    { "id": "japanese","name": "Japanese","image": "https://picsum.photos/seed/japanese/96" }
+  ]
+}
