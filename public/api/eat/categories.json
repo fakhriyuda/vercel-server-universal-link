@@ -1,8 +1,8 @@
 {
   "data": [
     { "id": "thai",    "name": "Thai",    "image": "https://picsum.photos/seed/thai/96" , "color": "0xFFABB880"},
-    { "id": "chinese", "name": "Chinese", "image": "https://picsum.photos/seed/chinese/96" ,"color": "0xFF24A0DC" },
     { "id": "korean",  "name": "Korean",  "image": "https://picsum.photos/seed/korean/96" ,"color": "0xFFAF7C67" },
+    { "id": "chinese", "name": "Chinese", "image": "https://picsum.photos/seed/chinese/96" ,"color": "0xFF24A0DC" },
     { "id": "japanese","name": "Japanese","image": "https://picsum.photos/seed/japanese/96","color": "0xFFFBCCBC" }
   ]
 }
