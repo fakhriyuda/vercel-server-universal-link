@@ -1,8 +1,8 @@
 {
   "data": [
-    { "id": "thai",    "name": "Thai",    "image": "https://picsum.photos/seed/thai/96" },
-    { "id": "chinese", "name": "Chinese", "image": "https://picsum.photos/seed/chinese/96" },
-    { "id": "korean",  "name": "Korean",  "image": "https://picsum.photos/seed/korean/96" },
-    { "id": "japanese","name": "Japanese","image": "https://picsum.photos/seed/japanese/96" }
+    { "id": "thai",    "name": "Thai",    "image": "https://source.unsplash.com/600x600/?thai,food" , "color": "0xFFABB880"},
+    { "id": "chinese", "name": "Chinese", "image": "https://source.unsplash.com/600x600/?chinese,food" ,"color": "0xFF24A0DC" },
+    { "id": "korean",  "name": "Korean",  "image": "https://source.unsplash.com/600x600/?korean,food" ,"color": "0xFFAF7C67" },
+    { "id": "japanese","name": "Japanese","image": "https://source.unsplash.com/600x600/?japanese,sushi","color": "0xFFFBCCBC" }
   ]
 }
