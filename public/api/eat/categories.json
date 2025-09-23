@@ -1,6 +1,6 @@
 {
   "data": [
-    { "id": "thai",    "name": "Thai",    "image": "https://png.pngtree.com/png-vector/20250701/ourlarge/pngtree-3d-cartoon-of-spicy-thai-tom-yum-soup-png-image_16594939.webp" , "color": "0xFFABB880"},
+    { "id": "thai",    "name": "Thai",    "image": "https://static.vecteezy.com/system/resources/thumbnails/067/228/659/small/3d-cartoon-of-spicy-thai-tom-yum-soup-png.png" , "color": "0xFFABB880"},
     { "id": "korean",  "name": "Korean",  "image": "https://picsum.photos/seed/korean/96" ,"color": "0xFFAF7C67" },
     { "id": "chinese", "name": "Chinese", "image": "https://picsum.photos/seed/chinese/96" ,"color": "0xFF24A0DC" },
     { "id": "japanese","name": "Japanese","image": "https://picsum.photos/seed/japanese/96","color": "0xFFFBCCBC" }
