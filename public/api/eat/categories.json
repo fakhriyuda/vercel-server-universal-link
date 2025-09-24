@@ -3,6 +3,6 @@
     { "id": "thai",    "name": "Thai",    "image": "https://static.vecteezy.com/system/resources/thumbnails/067/228/659/small/3d-cartoon-of-spicy-thai-tom-yum-soup-png.png" , "color": "0xFFABB880"},
     { "id": "korean",  "name": "Korean",  "image": "https://static.vecteezy.com/system/resources/previews/027/193/071/non_2x/korean-culture-3d-icon-png.png" ,"color": "0xFFAF7C67" },
     { "id": "chinese", "name": "Chinese", "image": "https://cdn3d.iconscout.com/3d/premium/thumb/asian-miso-soup-ramen-7435838-6084787.png" ,"color": "0xFF24A0DC" },
-    { "id": "japanese","name": "Japanese","image": "https://picsum.photos/seed/japanese/96","color": "0xFFFBCCBC" }
+    { "id": "japanese","name": "Japanese","image": "https://static.vecteezy.com/system/resources/previews/046/032/718/non_2x/japanese-food-3d-icon-png.png","color": "0xFFFBCCBC" }
   ]
 }
