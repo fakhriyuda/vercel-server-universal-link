@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308571075570",
+    "project_id": "rewards-1ef44",
+    "storage_bucket": "rewards-1ef44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308571075570:android:3731ebfafd65ebff03f16b",
+        "android_client_info": {
+          "package_name": "com.example.iseng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6tKoUzob1JuhNGElSWRmxek0Nw1_ilk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
