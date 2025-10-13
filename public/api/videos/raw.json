@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "video_url": "https://your-vercel-domain.vercel.app/videos/video_1.mp4",
+    "video_url": "https://your-vercel-domain.vercel.app/videos/sample_1.mp4",
     "age": ["10-18"],
     "gender": ["male", "female"]
   },
   {
     "id": 2,
-    "video_url": "https://your-vercel-domain.vercel.app/videos/video_2.mp4",
+    "video_url": "https://your-vercel-domain.vercel.app/videos/sample_2.mp4",
     "age": ["18-21", "21++"],
     "gender": ["female"]
   },
