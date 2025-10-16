@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "video_name":"sample_1",
-    "age": ["10-18"],
+    "video_name": "sample_1",
+    "age": ["0-17", "18-34"],
     "gender": ["male", "female"]
   },
   {
     "id": 2,
-    "video_name":"sample_2",
-    "age": ["18-21", "21++"],
+    "video_name": "sample_2",
+    "age": ["18-34", "35+"],
     "gender": ["female"]
   },
   {
     "id": 3,
-    "video_name":"sample_3",
-    "age": ["21++"],
+    "video_name": "sample_3",
+    "age": ["18-34", "35+"],
     "gender": ["male"]
   },
   {
     "id": 4,
-    "video_name":"sample_4",
-    "age": ["10-18", "18-21"],
+    "video_name": "sample_4",
+    "age": ["0-17", "18-34"],
     "gender": ["male", "female"]
   },
   {
     "id": 5,
-    "video_name":"sample_5",
-    "age": ["21++"],
+    "video_name": "sample_5",
+    "age": ["18-34", "35+"],
     "gender": ["male", "female"]
   }
 ]
