@@ -1,0 +1,26 @@
+[
+  {
+    "campaign_id": 1,
+    "campaign_name": "Gen Z Starter",
+    "description": "Konten untuk anak dan remaja",
+    "age": ["0-17"],
+    "gender": ["male", "female"],
+    "video_ids": [1, 4]
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "Young Adult Female",
+    "description": "Konten fokus perempuan dewasa muda",
+    "age": ["18-34"],
+    "gender": ["female"],
+    "video_ids": [2, 5]
+  },
+  {
+    "campaign_id": 3,
+    "campaign_name": "Adult Reach",
+    "description": "Konten untuk dewasa (lebih luas, inklusif gender)",
+    "age": ["18-34", "35+"],
+    "gender": ["male", "female"],
+    "video_ids": [3, 5]
+  }
+]
